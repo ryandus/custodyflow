@@ -1,4 +1,5 @@
 # CustodyFlow
+![CustodyFlow: TraceFlow, SyncFlow and ProdFlow linked by a SHA-256 hash chain](assets/custodyflow-banner.jpg)
 
 Defensible DFIR and eDiscovery workflow tools. Every tool runs client-side or with the Python standard library, and each is built around integrity: SHA-256 hashing, chain-of-custody records and tamper-evident logs, so the work can be defended in court.
 
